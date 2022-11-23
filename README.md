@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GoGoAga
+- 👋 Hi, I’m Kadir
 - 👀  I’m currently learning React, Redux and Firebase.
 - 🌱 I’m currently working on multiple projects
 - 💞️ Ask me about HTML,CSS,Sass,Bootstrap,JavaScript,React,Vue,NodeJS
